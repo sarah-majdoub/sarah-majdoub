@@ -1,5 +1,10 @@
 ### Hi, I'm Sarra 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+  <img src="assets/typing-light.svg" alt="I work on computer vision, applied machine learning, data engineering, and retrieval & RAG">
+</picture>
+
 Final-year software engineering student at **INSAT** (Tunis), working in **computer vision, applied ML and data engineering**.
 
 **Looking for a 6-month end-of-study internship starting February 2027.** Remote or on-site.
