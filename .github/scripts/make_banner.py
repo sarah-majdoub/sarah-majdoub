@@ -14,8 +14,8 @@ PHRASES = [
 TYPE, DELETE, HOLD, GAP = 0.08, 0.035, 1.8, 0.4
 
 THEMES = {
-    "light": {"text": "#1f2328", "accent": "#0969da"},
-    "dark": {"text": "#e6edf3", "accent": "#58a6ff"},
+    "light": {"text": "#1f2328", "accent": "#0969da", "muted": "#59636e", "border": "#d1d9e0", "surface": "#f6f8fa"},
+    "dark": {"text": "#e6edf3", "accent": "#58a6ff", "muted": "#9198a1", "border": "#3d444d", "surface": "#151b23"},
 }
 
 

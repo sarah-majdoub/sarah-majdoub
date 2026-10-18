@@ -10,9 +10,19 @@ Final-year software engineering student at **INSAT** (Tunis), working in **compu
 **Looking for a 6-month end-of-study internship starting February 2027.** Remote or on-site.
 → [Portfolio](https://sarra-majdoub.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sarra-majdoub/) · majdoubsarah7@gmail.com
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg">
+  <img src="assets/numbers-light.svg" alt="R² 0.84 on fruit weight from RGB · ~40M records through a Spark pipeline · 2,719 companies collected by an async scraper · 4 internships since 2024">
+</picture>
+
 ---
 
-#### Recent work
+#### Experience
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img src="assets/timeline-light.svg" alt="Timeline: Colocqui (frontend) Nov 2024–Jan 2025, TUNIDEV (full-stack) Jul–Sep 2025, Datalia (full-stack) Mar–Apr 2026, vGreens (data science / CV) Jul–Sep 2026, next: end-of-study internship from Feb 2027">
+</picture>
 
 - **Data Science / CV intern @ vGreens** (Jul–Sep 2026): replaced a hand-tuned yield forecaster with a TabPFN pipeline shipped as a drop-in production API. Built strawberry weight estimation from plain RGB cameras: **R² 0.84, 1.48 g MAE** on 184 hand-weighed fruits.
 - **Full-stack intern @ Datalia** (Mar–Apr 2026): owned a Partner Directory module end to end in a hexagonal architecture (TypeScript, Drizzle, PostGIS).
@@ -26,6 +36,13 @@ Final-year software engineering student at **INSAT** (Tunis), working in **compu
 | 👁️ [**SmartRestaurantService**](https://github.com/sarah-majdoub/SmartRestaurantService) | Table occupancy and service timing from video: YOLO11, pose estimation, centroid tracking. |
 | 🔎 [**thehub-nordic-scraper**](https://github.com/sarah-majdoub/thehub-nordic-scraper) | Async CLI that collects 2,700+ Nordic IT companies from a JSON API, with rate limiting, retries and GDPR-aware email discovery. |
 | 🤖 [**PFE Match**](https://github.com/tarek-gritli/pfe-match) (team) | Semantic matching between student CVs and internship offers. FastAPI, Angular, embeddings. |
+
+**How MindRAG answers a question:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <img src="assets/pipeline-light.svg" alt="MindRAG retrieval pipeline: query rewrite → keyword routing → BM25 + dense retrieval (65/35) → RRF fusion → cross-encoder rerank → local LLM via Ollama">
+</picture>
 
 #### Recently active
 
