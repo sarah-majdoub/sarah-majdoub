@@ -22,6 +22,18 @@ Final-year software engineering student at **INSAT** (Tunis), working in **compu
 | 🔎 [**thehub-nordic-scraper**](https://github.com/sarah-majdoub/thehub-nordic-scraper) | Async CLI that collects 2,700+ Nordic IT companies from a JSON API, with rate limiting, retries and GDPR-aware email discovery. |
 | 🤖 [**PFE Match**](https://github.com/tarek-gritli/pfe-match) (team) | Semantic matching between student CVs and internship offers. FastAPI, Angular, embeddings. |
 
+#### Recently active
+
+<!-- RECENT:START -->
+| Repo | What it is | Language | Last update |
+|---|---|---|---|
+| [**SmartRestaurantService**](https://github.com/sarah-majdoub/SmartRestaurantService) | Restaurant table occupancy and service timing from video: YOLO11 detection, pose estimation to spot seated customers, centroid tracking | Python | 18 Oct 2026 |
+| [**thehub-nordic-scraper**](https://github.com/sarah-majdoub/thehub-nordic-scraper) | Async Python CLI that pulls 2,700+ Nordic IT companies from thehub.io's JSON API, with rate limiting, retries and GDPR-aware email discovery | Python | 26 Sep 2026 |
+| [**Mental-Health-Companion** (team)](https://github.com/Maher-Wali/Mental-Health-Companion) | RAG mental-health companion with hybrid retrieval and crisis detection | Python | 26 May 2026 |
+| [**house-pricing** (team)](https://github.com/tarek-gritli/house-pricing) | House price prediction on scraped Tunisian listings | Jupyter Notebook | 16 Feb 2026 |
+| [**pfe-match** (team)](https://github.com/tarek-gritli/pfe-match) | Web and mobile application to match students with companies for end of studies internship | Dart | 4 Feb 2026 |
+<!-- RECENT:END -->
+
 #### Stack
 
 **ML & CV:** PyTorch · scikit-learn · OpenCV · YOLO · TabPFN
