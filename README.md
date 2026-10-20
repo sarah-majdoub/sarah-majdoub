@@ -49,7 +49,7 @@ Final-year software engineering student at **INSAT** (Tunis), working in **compu
 <!-- RECENT:START -->
 | Repo | What it is | Language | Last update |
 |---|---|---|---|
-| [**thehub-nordic-scraper**](https://github.com/sarah-majdoub/thehub-nordic-scraper) | Async Python CLI that pulls 2,700+ Nordic IT companies from thehub.io's JSON API, with rate limiting, retries and GDPR-aware email discovery | Python | 19 Oct 2026 |
+| [**thehub-nordic-scraper**](https://github.com/sarah-majdoub/thehub-nordic-scraper) | Async Python CLI that pulls 2,700+ Nordic IT companies from thehub.io's JSON API, with rate limiting, retries and GDPR-aware email discovery | Python | 20 Oct 2026 |
 | [**SmartRestaurantService**](https://github.com/sarah-majdoub/SmartRestaurantService) | Restaurant table occupancy and service timing from video: YOLO11 detection, pose estimation to spot seated customers, centroid tracking | Python | 18 Oct 2026 |
 | [**Mental-Health-Companion** (team)](https://github.com/Maher-Wali/Mental-Health-Companion) | RAG mental-health companion with hybrid retrieval and crisis detection | Python | 26 May 2026 |
 | [**house-pricing** (team)](https://github.com/tarek-gritli/house-pricing) | House price prediction on scraped Tunisian listings | Jupyter Notebook | 16 Feb 2026 |
